@@ -60,7 +60,7 @@ Pacotes Python (via `requirements.txt`):
 
 1. **Clone este repositório**
    ```bash
-   git clone https://github.com/SEU_USUARIO/bigdata-spark-project.git
+   git clone https://github.com/LuanVitorCD/bigdata-spark-project.git
    cd bigdata-spark-project
 ````
 
